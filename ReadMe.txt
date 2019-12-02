@@ -1,4 +1,4 @@
-XDataSource (1.0.0.0) Disclaimer:
+XDataSource (1.0.0.1) Disclaimer:
 
 1. This is a free to use Class Library and is not for sale. No License is ever required to use or deploy this Library.
 2. There's no Training or Session cost demanded ever by the Developer. Please refrain to any fee demand for training on this Library, as all the required information is posted on Internet.
@@ -8,3 +8,7 @@ XDataSource (1.0.0.0) Disclaimer:
 6. Any issue/concern can be communicated to sparks.bhaskar@gmail.com
 7. There're more to come in future. Please stay tuned on LinkedIn, Twitter, Insta @bhaskarsrivatsa
 8. Please visit https://www.linkedin.com/pulse/custom-sppid-automation-xpid-s-bhaskar/ for details
+
+
+Added:
+1. Logs for XPID
